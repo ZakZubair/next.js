@@ -95,9 +95,9 @@
     "url": "0.11.0",
     "uuid": "3.1.0",
     "walk": "^2.3.9",
-    "webpack": "3.3.0",
+    "webpack": "4.0.0",
     "webpack-dev-middleware": "1.11.0",
-    "webpack-hot-middleware": "2.18.2",
+    "webpack-hot-middleware": "2.25.1",
     "write-file-webpack-plugin": "4.1.0",
     "xss-filters": "1.2.7"
   },
